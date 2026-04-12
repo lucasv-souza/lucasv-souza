@@ -1,8 +1,8 @@
 ## Olá, eu sou o Lucas Vinicius 👋
 
-- 🔭 Atualmete cursando Ciências da Computação
-- 🌱 Estudando Linguagem C e Banco de Dados
-- 😄 Pronomes: ele/dele
+- 🔭 Cursando Ciências da Computação
+- 🌱 Estudando Desenvolvimento de Sistemas; Engenharia de Requisitos; Fundamentos de Segurança Cibernética; Metodologia de Desenvolvimento de Sistemas e Redes de Computadores
+- 😄 Atualmente no 3º Semestre
 
 <div>
   <a href="https://github.com/lucasvini-souza">
