@@ -1,6 +1,12 @@
-### Olá, eu sou o Lucas Vinicius 👋
+# Olá, eu sou o Lucas Vinicius 👋
 
-- 🔭 Cursando Ciências da Computação
+Sou um(a) estudante de Ciência da Computação na UniCEUB - Centro Universitário de Brasília, atualmente no 3º semestre. Tenho grande interesse em Desenvolvimento de Software e IA.
+
+Neste espaço, você encontrará projetos desenvolvidos durante minha jornada acadêmica.
+
+---
+
+- 🔭 Cursando Ciências da Computação na UniCEUB - Centro Universitário de Brasília.
 - 🌱 Estudando Integração DevOps; Desenvolvimento Web; Cálculo para Computação; Análise e Projetos de Sistemas; Algoritmos e Estrutura de Dados e Gestão de Projetos
 - 😄 Atualmente no 4º Semestre
 
