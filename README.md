@@ -1,8 +1,8 @@
 ## Olá, eu sou o Lucas Vinicius 👋
 
 - 🔭 Cursando Ciências da Computação
-- 🌱 Estudando Desenvolvimento de Sistemas; Engenharia de Requisitos; Fundamentos de Segurança Cibernética; Metodologia de Desenvolvimento de Sistemas e Redes de Computadores
-- 😄 Atualmente no 3º Semestre
+- 🌱 Estudando Integração DevOps; Desenvolvimento Web; Cálculo para Computação; Análise e Projetos de Sistemas; Algoritmos e Estrutura de Dados e Gestão de Projetos
+- 😄 Atualmente no 4º Semestre
 
 <div>
   <a href="https://github.com/lucasvini-souza">
