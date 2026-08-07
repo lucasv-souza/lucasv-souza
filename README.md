@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Vinicius 👋
+### Olá, eu sou o Lucas Vinicius 👋
 
 - 🔭 Cursando Ciências da Computação
 - 🌱 Estudando Integração DevOps; Desenvolvimento Web; Cálculo para Computação; Análise e Projetos de Sistemas; Algoritmos e Estrutura de Dados e Gestão de Projetos
